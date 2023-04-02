@@ -11,6 +11,6 @@ HTML, CSS, JavaScript (with some OOP)
 
 ```
 I completed the challenge: 5
-I feel good about my code: 3.5 - 4
+I feel good about my code: 4
 I received big help from Vic as well as my Gardner housemates, namely for the implementation of the Array.prototype.every and for the introduction of OOP into my code. You'll find several comments throughout, which are mostly for my understanding. 
 ```
