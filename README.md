@@ -9,7 +9,6 @@ Note: missing in screenshot (but present in the code itself) is my reset button 
 ### How it's made:
 HTML, CSS, JavaScript (with some OOP)
 
-Example:
 ```
 I completed the challenge: 5
 I feel good about my code: 3.5 - 4
